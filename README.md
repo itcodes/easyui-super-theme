@@ -7,8 +7,8 @@
 ## 用法
 皮肤是基于gray主题的
 1. 引入gray主题下的easyui.css和根目录css文件夹下的一个主题css  
-`<link rel="stylesheet" type="text/css" href="easyui/themes/gray/easyui.css" />
- 		<link rel="stylesheet" type="text/css" href="css/superBlue.css" />`
+`<link rel="stylesheet" type="text/css" href="easyui/themes/gray/easyui.css" />`  
+`<link rel="stylesheet" type="text/css" href="css/superBlue.css" />`
 2. 引入字体图标css `<link rel="stylesheet" type="text/css" href="easyui/themes/icons/css/font-awesome.min.css" />`
 3. 引入super.js `<script src="js/super.js" type="text/javascript" charset="utf-8"></script>`
 
